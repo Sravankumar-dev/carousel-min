@@ -1,0 +1,31 @@
+.heading{
+    font-size: 35px;
+    color:white;
+font-weight: 800;
+}
+.description{
+    font-size: 15px;
+    color:greenyellow;
+font-weight: 600;
+}
+.btn{
+    color:black;
+    background-color: lightblue;
+    padding:15px 30px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 600; 
+}
+.cart{
+    text-align: center;
+    font-family: "Roboto";
+    background-image: url("133822.jpg");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 15px;
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
